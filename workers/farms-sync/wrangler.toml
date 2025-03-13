@@ -1,0 +1,19 @@
+name = "farms-sync"
+main = "src/index.ts"
+compatibility_date = "2024-02-09"
+
+[triggers]
+crons = ["0 0 * * *"]  # Run at midnight UTC every day
+
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = true
+
+
+[[d1_databases]]
+binding = "DB"
+database_name = "agrovita"
+database_id = "13b0ef3c-e632-441e-b0ec-5b4c303b2638"
+
+[vars]
+SUPABASE_URL = "https://rjtapsiizkqvcgjvibra.supabase.co"

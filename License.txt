@@ -1,0 +1,10 @@
+Copyright (c) 2025 David Jeffers @ AgroVita All rights reserved.
+
+This software and its associated documentation (collectively, "Software") are proprietary and confidential.
+Unauthorized use, reproduction, modification, distribution, or disclosure of the Software, in whole or in part,
+is strictly prohibited without prior written permission from [Your Name or Company Name].
+
+The Software is provided "as is" for authorized use only. David Jeffers reserves all rights not
+expressly granted herein. Violators will be subject to legal action to the fullest extent permitted by law.
+
+For inquiries regarding licensing or permissions, contact: [Your Email or Contact Info].
